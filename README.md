@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello, world! 👋, I'm Denys
 
-<!--
-**dailydenny/dailydenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+- 🐍 I Learn Python
+- 🎬 I make a video diary about my studies and life on TikTok
+- 🎮 I Love games
+- 🎸 I am guitarist
+- 🎧 I love music 
 
-Here are some ideas to get you started:
+### My social:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="dailydenny | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="dailydenny | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dailydenny | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+
+
+<br />
+<br />
+<br />
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailydenny&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dailydenny&show_icons=true" />
+</details>
+
+[tiktok]: https://www.tiktok.com/@techdenny
+[instagram]: https://www.instagram.com/deniskolomiets/
+[facebook]: https://www.facebook.com/denis.kolomiets/

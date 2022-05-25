@@ -5,8 +5,8 @@
 - 🎬 I make a video diary about my studies and life on TikTok
 - 🎮 I Love games
 - 🎸 I am guitarist
-- 🎧 I love music 
-🚀 Started learning the language on 04/21/2022. This is my first experience, I have never dealt with programming languages before. 
+- 🎧 I love music
+- 🚀 Started learning the language on 04/21/2022. This is my first experience, I have never dealt with programming languages before.  
 ### My social:
 
 [<img align="left" alt="dailydenny | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

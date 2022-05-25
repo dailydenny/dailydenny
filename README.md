@@ -12,7 +12,7 @@
 [<img align="left" alt="dailydenny | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dailydenny | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dailydenny | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
-
+[<img align="left" alt="dailydenny | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 <br />
@@ -28,3 +28,4 @@
 [tiktok]: https://www.tiktok.com/@techdenny
 [instagram]: https://www.instagram.com/deniskolomiets/
 [facebook]: https://www.facebook.com/denis.kolomiets/
+[telegram]: https://t.me/techdenny

@@ -16,17 +16,6 @@
 
 <br />
 
-### My experience:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Pycharm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="AdobePremiere" width="26px" src="https://static2.it-serwis.pl/pol_pl_Adobe-Premiere-Pro-CC-for-Teams-ENG-Win-Mac-subskrypcja-12-miesiecy-237_1.png" />
-<img align="left" alt="AdobePhotoshop" width="26px" src="https://static2.it-serwis.pl/pol_pl_Adobe-Photoshop-CC-for-Teams-ENG-Win-Mac-13341_1.png" />
-<img align="left" alt="AdobeIllustrator" width="26px" src="https://static5.it-serwis.pl/pol_pl_Adobe-Illustrator-CC-for-Teams-MULTI-Win-Mac-214_1.png" />
-<img align="left" alt="FLStudio" width="26px" src="http://parrotpc.org/wp-content/uploads/2021/05/fl-studio-crack.png" />
-
-
 <br />
 <br />
 

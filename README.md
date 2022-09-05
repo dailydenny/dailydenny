@@ -1,7 +1,7 @@
 ### Hello, world! 👋, I'm Denys
 
 ## About me:
-- 👨‍💻 I Learn JavaScript, HTML, CSS, Python
+- 👨‍💻 I Learn JavaScript, HTML, CSS
 - 🎬 I make a video diary about my studies and life on TikTok
 - 🎮 I Love games
 - 🎸 I am guitarist

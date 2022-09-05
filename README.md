@@ -3,7 +3,7 @@
 ## About me:
 - 👨‍💻 I Learn JavaScript, HTML, CSS
 - 🎬 I make a video diary about my studies and life on TikTok
-- 🎮 I Love games
+- 🎮 I love games
 - 🎸 I am guitarist
 - 🎧 I love music
 - 🚀 Started learning the language on 04/21/2022. This is my first experience, I have never dealt with programming languages before.  
